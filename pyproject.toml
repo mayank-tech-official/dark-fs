@@ -1,0 +1,26 @@
+[project]
+name = "dark-fs"
+version = "0.0.1"
+description = "A CLI file manager crate for work on all OS"
+authors = [{ name = "Mayank Sinha" }]
+dependencies = ["pyfiglet", "colorama"]
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+
+keywords = ["github", "cli", "file", "system", "os", "folder", "structure"]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+
+[project.scripts]
+dfs = "darkfs.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/mayank-tech-official/dark-fs"
+
+[build-system]
+requires = ["setuptools>=77.0.0"]
+build-backend = "setuptools.build_meta"
