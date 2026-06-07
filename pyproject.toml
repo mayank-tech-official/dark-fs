@@ -1,6 +1,6 @@
 [project]
 name = "dark-fs"
-version = "0.1.0"
+version = "0.2.0"
 description = "Dark-FS is a cross-platform CLI file manager with a colorful terminal interface and fast navigation."
 authors = [{ name = "Mayank Sinha" }]
 dependencies = ["pyfiglet", "colorama"]
