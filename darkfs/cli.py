@@ -17,7 +17,7 @@ def intro():
         print(Style.BRIGHT + Fore.RED + d + Style.BRIGHT + Fore.YELLOW + f_line)
 
     print(Style.BRIGHT + "\t\t[+]" + Fore.YELLOW + " Author" + Style.RESET_ALL + " : " + Style.BRIGHT + "Mayank Sinha")
-    print(Style.BRIGHT + "\t\t[+]" + Fore.YELLOW + " Version" + Style.RESET_ALL + " : " + Style.BRIGHT + "v0.2.0")
+    print(Style.BRIGHT + "\t\t[+]" + Fore.YELLOW + " Version" + Style.RESET_ALL + " : " + Style.BRIGHT + "v0.2.1")
     print(Style.BRIGHT + "\t\t[+]" + Fore.YELLOW + " Github" + Style.RESET_ALL + " : " + Style.BRIGHT + "mayank-tech-official\n")
 
     auto_print(Fore.CYAN, Style.BRIGHT, "    Support Us To Add More Features.\n")
