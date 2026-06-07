@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+dark_fs.egg-info/PKG-INFO
+dark_fs.egg-info/SOURCES.txt
+dark_fs.egg-info/dependency_links.txt
+dark_fs.egg-info/entry_points.txt
+dark_fs.egg-info/requires.txt
+dark_fs.egg-info/top_level.txt
+darkfs/__init__.py
+darkfs/cli.py
+darkfs/core.py
+darkfs/helpers.py
+darkfs/main.py
