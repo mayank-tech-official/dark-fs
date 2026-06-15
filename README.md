@@ -285,7 +285,7 @@ sys
 ### External Libraries
 
 ```text
-colorama
+colorama and pyfiglet
 ```
 
 ---
