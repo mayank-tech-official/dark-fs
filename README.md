@@ -341,7 +341,7 @@ Feel free to open an issue or submit a pull request if you find a bug or want to
 ## 👨‍💻 Author
 
 ```text
-AK
+Mayank Sinha
 ```
 
 Creator of Dark FS.
